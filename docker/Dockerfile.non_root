@@ -44,6 +44,7 @@ RUN for i in 1 2 3; do \
         bash \
         coreutils \
         curl \
+        file \
         openssl \
         libsndfile \
         nodejs \
